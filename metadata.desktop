@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Desklauncher
+Comment=A simple launcher for Applications
+Encoding=UTF-8
+Icon=/home/mathias/projects/DeskLauncher/USB.png
+ServiceTypes=Plasma/Applet
+Type=Service
+X-KDE-PluginInfo-Author=TheComp44
+X-KDE-PluginInfo-Email=TheComp44@gmail.com
+X-KDE-PluginInfo-Name=com.thecomp44.desklauncher
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Version=1.0.1
+X-KDE-PluginInfo-Website=http://thecomp44.com
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
